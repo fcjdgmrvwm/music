@@ -6,4 +6,4 @@ music related tools, tutorials such as music transcription.
 2. convert sheet music to midi -- a new library for python.
 
 ## DONE
-1. A little tool to convert jianpu to sheet music. [jianpu2sheet](../tool/jianpu2sheet).
+1. A little tool to convert jianpu to sheet music. [jianpu2sheet](../tool/jianpu2sheet/).
